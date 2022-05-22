@@ -1,0 +1,36 @@
+.contenido{
+    margin-left: 15px; 
+    margin-right: 15px; 
+    text-align: justify;
+}
+
+.texto{
+    font-size: 20px;
+    color: teal;
+}
+
+.subtitulo{
+    font-size: 30px;
+    color: olive;
+}
+
+.subtema{
+    font-size: 25px;
+    color: olive;
+}
+
+.botonDerecha{
+    text-align: right;
+}
+
+.botonIzquierda{
+    text-align: left;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    padding: 10px;
+    border: 2px solid black;
+}
